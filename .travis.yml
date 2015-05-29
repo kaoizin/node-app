@@ -7,4 +7,4 @@ deploy:
     secure: 1fbfb922-5eb0-4ac5-b574-f507f156e75f
   app: nodesapps
   on:
-    repo: filipeguelber/node-app
+    repo: kaoizin/node-app
