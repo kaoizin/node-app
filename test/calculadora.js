@@ -49,7 +49,7 @@ describe('Calculadora', function() {
 				var numero1 = 2;
 				var numero2 = 0;
 				
-				var resultado = controller.utils.calculos.subtrair(numero1, numero2);
+				var resultado = controller.utils.calculos.somar(numero1, numero2);
 				
 				resultado.should.be.a.Number;
 				resultado.should.be.equal(0);
